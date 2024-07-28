@@ -37,7 +37,7 @@ def download_image(url, folder, img_number):
 
 
 def main():
-    query = "calopsita comendo semente"
+    query = "calopsita comendo"
     max_links_to_fetch = 50
     
     driver = webdriver.Chrome()  
